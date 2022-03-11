@@ -1,7 +1,9 @@
-echo "# fiap-front" >> README.md
 git init
-git add README.md
+git add --all
 git commit -m "first commit"
+
+git log
+
 git branch -M main
 git remote add origin https://github.com/Elizangelagomes/fiap-front.git
 git push -u origin main
