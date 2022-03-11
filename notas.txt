@@ -1,9 +1,18 @@
 git init
+
+git add -h
 git add --all
+
+git commit -h
 git commit -m "first commit"
 
 git log
 
+git branch -h
 git branch -M main
+
+git remote -h
+git remote -v
 git remote add origin https://github.com/Elizangelagomes/fiap-front.git
+
 git push -u origin main
