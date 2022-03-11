@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color:#0059ff91;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+h2, h3  {
+    color:#336999;
+    font-size: 35px;
+}
+
+p {
+    color:rgb(2, 126, 126);
+    font-size: 18px;
+}
+h3 {
+    font-size: 30px;
+}
